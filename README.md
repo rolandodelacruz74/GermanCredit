@@ -1,1 +1,1 @@
-The German Credit Data is a public data downloaded from [UCI Machine Learning Repository]
+The German Credit Data is a public data downloaded from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data). The dataset contains 1000 entries with 20 categorical features prepared by Prof. Hofmann. Each entry represents a customer and is classified as good or bad credit risk, according to the set of features.
